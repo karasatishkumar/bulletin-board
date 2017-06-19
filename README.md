@@ -24,7 +24,7 @@ Access the application using the following URL
     http://localhost:3000/
 
 ### Deploy to Github Pages    
-[http://satish-tech-talks.blogspot.in/2017/06/deploy-react-application-as-github-pages.html](Deploy React Application as Github Pages)
+[Deploy React Application as Github Pages](http://satish-tech-talks.blogspot.in/2017/06/deploy-react-application-as-github-pages.html)
 ### Contributing
 
 ### Staying in touch
